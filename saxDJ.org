@@ -1,0 +1,50 @@
+#+title: Sax and DJ org file
+#+author: Ashley Sagar
+#+SEQ_TODO: NEXT(n) TODO(t) WAITING(w) SOMEDAY(s) PROJ(p) | DONE(d) CANCELLED(c)
+
+
+
+
+* Here is the file for the sax and dj things we need to do.
+
+** 2024-04-23
+:LOGBOOK:
+CLOCK: [2024-04-23 Tue 15:25]--[2024-04-23 Tue 16:27] =>  60:02
+:END:
+
+*** DONE record sax and dj snippets
+
+*** DONE edit snippets and store to folder
+
+*** NEXT upload snippets for tony to check out
+
+*** NEXT make a webpage
+- [ ] What to do???
+- [ ] blank html
+- [ ] css
+- [ ] web address
+- [ ] upload audio
+- [ ] upload images
+- [ ] need images
+- [ ] check out the odin project
+*** NEXT upload audio snippets
+*** NEXT come up with a name
+*** NEXT 
+:LOGBOOK:
+CLOCK: [2024-04-26 Fri 14:26]
+CLOCK: [2024-04-26 Fri 13:29]-- [2024-04-26 Fri 14:29] => 60:00 
+:END:
+
+:LOGBOOK:
+CLOCK: [2024-05-02 Fri 18:00]-- [2024-05-02 Fri 19:30] => 90:00 
+:END:
+
+
+
+
+
+
+
+
+
+
