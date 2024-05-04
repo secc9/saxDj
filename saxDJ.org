@@ -23,20 +23,21 @@ CLOCK: [2024-04-23 Tue 15:25]--[2024-04-23 Tue 16:27] =>  60:02
 - [ ] blank html
 - [ ] css
 - [ ] web address
-- [ ] upload audio
+- [X] upload audio
 - [ ] upload images
 - [ ] need images
 - [ ] check out the odin project
+- [ ] contact form
+  
 *** NEXT upload audio snippets
 *** NEXT come up with a name
 *** NEXT 
 :LOGBOOK:
-CLOCK: [2024-04-26 Fri 14:26]
+CLOCK: [2024-05-04 Sat 14:10]
+CLOCK: [2024-05-03 Fri 14:44]--[2024-05-03 Fri 14:59] =>  0:15
 CLOCK: [2024-04-26 Fri 13:29]-- [2024-04-26 Fri 14:29] => 60:00 
-:END:
+CLOCK: [2024-05-02 Fri 18:00]-- [2024-05-02 Fri 19:30] => 90:00
 
-:LOGBOOK:
-CLOCK: [2024-05-02 Fri 18:00]-- [2024-05-02 Fri 19:30] => 90:00 
 :END:
 
 
