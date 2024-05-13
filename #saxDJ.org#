@@ -30,8 +30,8 @@ CLOCK: [2024-04-23 Tue 15:25]--[2024-04-23 Tue 16:27] =>  60:02
 - [ ] upload images
 - [ ] need images
 - [ ] check out the odin project
-- [ ] contact form
-  - [ ] name
+- [-] contact form
+  - [X] name
   - [ ] email
   - [ ] request
   - 
