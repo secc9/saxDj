@@ -1,0 +1,156 @@
+<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta charset = "UTF-8">
+    <title>The Big Smoke Live DJ Band</title>
+  </head>
+
+  
+
+
+  <body>
+    <h1>The Big Smoke live DJ Band</h1>
+    <h2>Looking for a great night for your party, then look no further!</h2>
+    <h2></h2>
+
+<h3>We should choose something from here maybe??</h3>
+
+
+    <p>
+      🎵 Experience the Perfect Harmony: DJ & Sax Duo 🎷
+
+      Elevate your event to extraordinary heights with the dynamic fusion of live saxophone melodies and electrifying beats from our expert DJ. Whether you're hosting a wedding reception, corporate event, or private party, our DJ and sax duo brings a unique and unforgettable energy to any occasion.
+
+      </p>
+
+  
+🌟 Unrivaled Professionalism
+
+With years of experience performing at events of all sizes, our DJ and sax duo guarantees a polished and seamless performance from start to finish. We pride ourselves on our professionalism, attention to detail, and ability to tailor our set to suit your specific preferences and event atmosphere.
+
+    <p>
+🎉 Create Lasting Memories
+
+From intimate gatherings to lively celebrations, our DJ and sax duo sets the stage for unforgettable moments. Whether it's setting the mood during cocktail hour, providing the soundtrack for dinner, or igniting the dance floor late into the night, our duo crafts a musical experience that will be remembered long after the last note fades away.
+    </p>
+
+    <p>
+📞 Book Your Event Today
+
+      Don't settle for ordinary entertainment. Elevate your event with the dynamic synergy of our DJ and sax duo. Contact us today to discuss your event needs, and let us help you create a musical masterpiece that will leave a lasting impression on you and your guests.
+
+    </p>
+
+
+    <p>You can book the duo for the following
+      <ul>
+	<li>DJ and Sax</li>
+	<li>DJ, Sax and Percussion</li>
+	</ul>
+
+
+    <h1>Listen to some snippets below</h1>
+
+    <h3>Blue</h3>
+    <audio controls src="assets/Audio/Blue.mp3" type="audio.mpeg">
+      </audio>
+
+    <h3>Changes</h3>
+      <audio controls src="assets/Audio/Changes.mp3" type="audio.mpeg">
+      </audio>
+
+       <h3>Cheerleader</h3>
+      <audio controls src="assets/Audio/Cheerleader.mp3" type="audio.mpeg">
+      </audio>
+
+       <h3>Destination Calabria</h3>
+      <audio controls src="assets/Audio/DestinationCalabria.mp3" type="audio.mpeg">
+      </audio>
+
+       <h3>Freed from Desire</h3>
+      <audio controls src="assets/Audio/FreedFromDesire.mp3" type="audio.mpeg">
+      </audio>
+
+       <h3>Get Right</h3>
+      <audio controls src="assets/Audio/GetRight.mp3" type="audio.mpeg">
+      </audio>
+
+       <h3>Gimmie Gimmie</h3>
+      <audio controls src="assets/Audio/GimmeGimme.mp3" type="audio.mpeg">
+      </audio>
+
+
+       <h3>Infinity</h3>
+       <audio controls src="assets/Audio/Infinity.mp3" type="audio.mpeg">
+      </audio>
+
+        <h3>Klingande</h3>
+      <audio controls src="assets/Audio/Klingande.mp3" type="audio.mpeg">
+      </audio>
+
+
+      <h3>Mr SaxoBeat</h3>
+      <audio controls src="assets/Audio/MrSaxobeat.mp3" type="audio.mpeg">
+      </audio>
+
+      <h3>One Day</h3>
+      <audio controls src="assets/Audio/oneDay.mp3" type="audio.mpeg">
+      </audio>
+
+        <h3>Rhythm of the Night</h3>
+      <audio controls src="assets/Audio/RhythmOfTheNight.mp3" type="audio.mpeg">
+      </audio>
+
+
+        <h3>Show Me Love</h3>
+      <audio controls src="assets/Audio/ShowMeLove.mp3" type="audio.mpeg">
+      </audio>
+
+        <h3>The Next Episode</h3>
+      <audio controls src="assets/Audio/TheNextEpisode.mp3" type="audio.mpeg">
+      </audio>
+
+       <h3>This Girl</h3>
+      <audio controls src="assets/Audio/ThisGirl.mp3" type="audio.mpeg">
+      </audio>
+
+  <h3>We No Speak Americano</h3>
+      <audio controls src="assets/Audio/WeNoSpeakAmericano.mp3" type="audio.mpeg">
+      </audio>
+	
+
+
+
+      
+      <div class='container'>
+	<div style="text-align:center">
+	  <h2>Like what you hear!</h2>
+	  <h2>Get in touch and book us now</h2>
+	</div>
+
+	<div class="column">
+	  <form action="/action_page.php">
+	    <label for="fname">First Name</label>
+	    <input type="text" id="fname" name="firstname" placeholder="first name..">
+	    <label for="lname">Last Name</label>
+	    <input type="text" id="lname" name="lastname" placeholder="last name">
+	    <label for="email">Enter your email:</label>
+	    <input type="email" id="email" name="email">
+	    <input type="submit">
+
+	    </form>
+			
+	    
+
+      
+
+      
+      
+  </body>
+
+  
+
+</html>
+
+
+
