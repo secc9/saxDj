@@ -5,6 +5,23 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>The Big Smoke DJ Band</title>
     <link rel="stylesheet" href="styles.css">
+
+     <script>
+        // JavaScript to pause other audio when a new one is played
+        document.addEventListener("DOMContentLoaded", function() {
+            var audios = document.querySelectorAll("audio");
+            audios.forEach(function(audio) {
+                audio.addEventListener("play", function() {
+                    audios.forEach(function(otherAudio) {
+                        if (otherAudio !== audio) {
+                            otherAudio.pause();
+                        }
+                    });
+                });
+            });
+        });
+    </script>
+
 </head>
 <body>
     <header>
