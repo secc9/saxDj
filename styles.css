@@ -9,7 +9,7 @@ body {
 }
 
 header {
-    background-color: #444;
+    background-color: #9400D3;
     color: white;
     text-align: center;
     padding: 1em 0;
@@ -61,20 +61,20 @@ form button {
     padding: 0.7em;
     font-size: 1.1em;
     color: white;
-    background-color: #444;
+    background-color: #9400D3;
     border: none;
     border-radius: 4px;
     cursor: pointer;
 }
 
 form button:hover {
-    background-color: #333;
+    background-color: #9400D3;
 }
 
 footer {
     text-align: center;
     padding: 1em 0;
-    background-color: #444;
+    background-color: #9400D3;
     color: white;
     margin-top: 1em;
 }
